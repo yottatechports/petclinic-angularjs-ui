@@ -14,7 +14,6 @@
 	<scm>
 		<url>https://github.com/yottatechports/petclinic-angularjs-ui.git</url>
 		<connection>scm:git:git://github.com/yottatechports/petclinic-angularjs-ui.git</connection>
-		<developerConnection>scm:git:git@github.com:yottatechports/petclinic-angularjs-ui.git</developerConnection>
 	</scm>
 	<developers>
 		<developer>
