@@ -11,6 +11,12 @@
 		<node.version>v4.4.3</node.version>
 		<npm.version>2.15.1</npm.version>
 	</properties>
+	<scm>
+		<url>https://github.com/yottatechports/petclinic-angularjs-ui.git</url>
+		<connection>scm:git:git://github.com/yottatechports/petclinic-angularjs-ui.git</connection>
+		<developerConnection>scm:git:git@github.com:yottatechports/petclinic-angularjs-ui.git</developerConnection>
+	</scm>
+
 
 	<build>
 		<resources>
