@@ -16,7 +16,14 @@
 		<connection>scm:git:git://github.com/yottatechports/petclinic-angularjs-ui.git</connection>
 		<developerConnection>scm:git:git@github.com:yottatechports/petclinic-angularjs-ui.git</developerConnection>
 	</scm>
-
+	<developers>
+		<developer>
+			<email>manasa.alladi@yottatechports.com</email>
+			<name>Manasa Alladi</name>
+			<url>https://github.com/manasaalladi</url>
+			<id>manasaalladi</id>
+		</developer>
+	</developers>
 
 	<build>
 		<resources>
