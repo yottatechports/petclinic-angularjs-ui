@@ -13,7 +13,7 @@
 	</properties>
 	<scm>
 		<url>https://github.com/yottatechports/petclinic-angularjs-ui.git</url>
-		<connection>scm:git:https://www.github.com/yottatechports/petclinic-angularjs-ui.git</connection>
+		<connection>scm:git:git@github.com:yottatechports/petclinic-angularjs-ui.git</connection>
 	</scm>
 	<developers>
 		<developer>
