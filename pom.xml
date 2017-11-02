@@ -87,8 +87,8 @@
 		        <configuration>
 		          <tagNameFormat>v@{project.version}</tagNameFormat>
 				       <checkModificationExcludes>
-            <checkModificationExclude>pom.xml</checkModificationExclude>
-        </checkModificationExcludes>
+            				<checkModificationExclude>pom.xml</checkModificationExclude>
+        			   </checkModificationExcludes>
 		        </configuration>
  
    
