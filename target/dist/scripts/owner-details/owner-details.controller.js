@@ -1,1 +1,0 @@
-"use strict";angular.module("ownerDetails").controller("OwnerDetailsController",["$http","$stateParams",function(t,e){var n=this;t.get("http://ec2-54-87-132-138.compute-1.amazonaws.com:8080/owners/"+e.ownerId).then(function(t){n.owner=t.data})}]);

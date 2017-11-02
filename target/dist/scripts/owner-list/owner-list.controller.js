@@ -1,1 +1,0 @@
-"use strict";angular.module("ownerList").controller("OwnerListController",["$http",function(t){var n=this;t.get("http://ec2-54-87-132-138.compute-1.amazonaws.com:8080/owners/list").then(function(t){n.owners=t.data})}]);
